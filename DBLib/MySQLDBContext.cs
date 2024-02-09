@@ -9,7 +9,7 @@ namespace DBLib
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseMySQL("server=127.0.0.1;database=formulaone;uid=root;pwd=");
+            optionsBuilder.UseMySQL("server=127.0.0.1;database=formula1;uid=root;pwd=");
         }
     }
 }

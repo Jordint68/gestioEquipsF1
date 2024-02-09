@@ -1,0 +1,12 @@
+C:\programacion\2n DAM\Disseny Interficies\gestioEquipsF1\DBLib\bin\Debug\netstandard2.0\DBLib.deps.json
+C:\programacion\2n DAM\Disseny Interficies\gestioEquipsF1\DBLib\bin\Debug\netstandard2.0\DBLib.dll
+C:\programacion\2n DAM\Disseny Interficies\gestioEquipsF1\DBLib\bin\Debug\netstandard2.0\DBLib.pdb
+C:\programacion\2n DAM\Disseny Interficies\gestioEquipsF1\DBLib\bin\Debug\netstandard2.0\Windows.Foundation.UniversalApiContract.winmd
+C:\programacion\2n DAM\Disseny Interficies\gestioEquipsF1\DBLib\obj\Debug\netstandard2.0\DBLib.csproj.AssemblyReference.cache
+C:\programacion\2n DAM\Disseny Interficies\gestioEquipsF1\DBLib\obj\Debug\netstandard2.0\DBLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\programacion\2n DAM\Disseny Interficies\gestioEquipsF1\DBLib\obj\Debug\netstandard2.0\DBLib.AssemblyInfoInputs.cache
+C:\programacion\2n DAM\Disseny Interficies\gestioEquipsF1\DBLib\obj\Debug\netstandard2.0\DBLib.AssemblyInfo.cs
+C:\programacion\2n DAM\Disseny Interficies\gestioEquipsF1\DBLib\obj\Debug\netstandard2.0\DBLib.csproj.CoreCompileInputs.cache
+C:\programacion\2n DAM\Disseny Interficies\gestioEquipsF1\DBLib\obj\Debug\netstandard2.0\DBLib.csproj.CopyComplete
+C:\programacion\2n DAM\Disseny Interficies\gestioEquipsF1\DBLib\obj\Debug\netstandard2.0\DBLib.dll
+C:\programacion\2n DAM\Disseny Interficies\gestioEquipsF1\DBLib\obj\Debug\netstandard2.0\DBLib.pdb
